@@ -1,0 +1,7 @@
+Image Compression using Convolutional Neural Networks Autoencoder - https://youtu.be/iFmJIKM-tzs
+
+Image compression deep-dive - https://youtu.be/F1kYBnY6mwg
+
+How image compression works - https://youtu.be/Ba89cI9eIg8
+
+Image file formats - JPEG, GIF, PNG - https://youtu.be/ww12lImOJ38
